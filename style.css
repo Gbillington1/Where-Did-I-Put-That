@@ -1,7 +1,21 @@
 html, body {
-    background-color: grey;
-    width: auto;
-    height: auto;
+    background-color: #0081AF;
+    margin: 0;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+#header {
+    text-align: center;
+}
+
+#gameArea {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
 }
 
 #outerCircle {
