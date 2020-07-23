@@ -1,0 +1,30 @@
+html, body {
+    background-color: grey;
+    width: auto;
+    height: auto;
+}
+
+#outerCircle {
+    width: 250px;
+    height: 250px;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+#innerCircle {
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#bigTheCat {
+    width: 60px;
+    height: 60px;
+}
